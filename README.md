@@ -1,8 +1,7 @@
-## User Experience Design
+# User Experience Design
+###### Team *oita-structure* (foodwithfriends)
 
-This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
+## App Map
+![app map](./ux-design/app-map.png)
 
-Replace the contents of this file with the completed assignments, as described in:
-
-- [app map and wireframe instructions](./instructions-app-map-wireframe.md).
-- [prototype instructions](./instructions-prototype.md)
+## Wireframes
