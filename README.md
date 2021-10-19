@@ -2,6 +2,9 @@
 
 ###### Team _oita-structure_ (foodwithfriends)
 
+## Prototype
+Link: https://foodwithfriends.invisionapp.com/console/share/UA350E50RM
+
 ## App Map
 
 ![app map](./ux-design/app-map.png)
